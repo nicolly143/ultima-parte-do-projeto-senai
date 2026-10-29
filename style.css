@@ -1,0 +1,206 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Bricolage Grotesque", sans-serif;
+}
+
+
+
+body {
+
+
+    /* background-color: #6943a1; */
+    width: 100%;
+    background-image: url('./img/Órbita\ Sutil\ com\ Ponto\ Verde.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center font-family "DM Sans", sans-serif;
+}
+
+
+.box_text4 {
+    margin: 100px;
+    margin: -25px 197px;
+}
+
+
+
+
+
+
+
+.number4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap-reverse;
+    align-content: space-between;
+    position: relative;
+    top: -247px;
+    margin: 0 92px;
+}
+
+.number4 span {
+    font-size: 13px;
+    display: flex;
+    margin: -3px;
+
+
+}
+
+
+.text4 p {
+    color: #d7ff62;
+    font-size: 28px;
+    margin: 21px;
+    position: relative;
+    top: 14px;
+}
+
+.h2_1 {
+    font-size: 66px;
+    color: #ffffff;
+
+}
+
+.h2_2 {
+    font-size: 66px;
+    display: flex;
+    color: #ffffff;
+    margin: 0 10 px;
+}
+
+
+.h2_3 {
+    color: #8849e7;
+    font-size: 66px;
+    margin: 0 10px;
+    font-family: "Cormorant Garamond", serif;
+    margin: 0 5px;
+}
+
+.number4 b {
+    color: #d7ff62;
+    font-size: 87px;
+
+
+}
+
+.number4 span {
+    color: #ffffff;
+    font-size: 22px;
+}
+
+.number4 small {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+
+.box_container_text4,
+.card-depoimento {
+    background-color: #d7ff62;
+    width: 370px;
+    height: 307px;
+}
+
+.box_text {
+    display: flex;
+    justify-content: center;
+    gap: 117px;
+    font-family: "Bricolage Grotesque", sans-serif;
+}
+
+.p2 {
+    font-size: 16px;
+    padding: 36px;
+    font-family: "Bricolage Grotesque", sans-serif;
+}
+
+
+
+.estrelas {
+    display: flex;
+    justify-content: center;
+    margin: 16px;
+}
+
+.box4 {
+    background-color: #8849e7;
+    width: 370px;
+}
+
+svg {
+    width: 35px;
+}
+
+.autor {
+    display: flex;
+    justify-content: space-around;
+}
+
+hr {
+    margin: 38px;
+}
+
+/* ///////final///////// */
+
+
+.box_comentarios {
+    margin: 49px;
+}
+
+
+
+.final {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 0 40px;
+    box-sizing: border-box;
+}
+
+.primeira_parte {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+
+.box_text svg {
+    width: 35px;
+    position: absolute;
+    top: 749px;
+    margin: 10px;
+}
+
+.primeira_parte {
+    color: #ffffff;
+}
+
+
+
+
+
+.img3 {
+    width: 148px;
+}
+
+
+
+
+.img4 {
+    width: 29px;
+    fill: #ffffff;
+}
+
+
+
+
+
+.primeira_parte a {
+    text-decoration: none;
+    color: aliceblue;
+}
